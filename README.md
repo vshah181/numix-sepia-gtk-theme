@@ -1,3 +1,3 @@
 # numix-sepia-gtk-theme
-I made this using oomox
+I made this using oomox.
 I also don't know how to edit markdowns so...
